@@ -1,0 +1,23 @@
+Package: luci-app-cpufreq
+Version: 1-5
+Depends: luci-i18n-cpufreq-zh-cn
+Section: packages
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 2516
+Filename: luci-app-cpufreq_1-5_all.ipk
+Size: 2516
+MD5Sum: 6aa9673eb05da7aae3fe4c3d2dca2f02
+SHA256sum: 3725e5c745031b1098c634ab014ff2975b7ae99e4b75d119625827ad4de6b3d8
+Description:  cpu freq
+
+Package: luci-i18n-cpufreq-zh-cn
+Version: 1-5
+Depends: luci-app-cpufreq
+Section: packages
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 1829
+Filename: luci-app-cpufreq_1-5_all.ipk
+Size: 1829
+MD5Sum: 8d2dfe9817993da0c197f91840bec3ea
+SHA256sum: 2663e045a7dca00123fc956e6202190c9998daf1f35e994bf629145caa7dede5
+Description:  cpu freq zh cn
